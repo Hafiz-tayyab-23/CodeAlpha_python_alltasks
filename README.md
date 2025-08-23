@@ -1,4 +1,4 @@
-# CodeAlpha Internship – Python Programming 🐍
+# CodeAlpha Internship – Python Programming
 
 This repository contains all the tasks completed during my **CodeAlpha Internship in Python Programming** (July 20 – Aug 20, 2025).  
 The projects focus on **file handling, automation, data manipulation, and logic building**, showcasing practical applications of Python.  
@@ -43,4 +43,13 @@ The projects focus on **file handling, automation, data manipulation, and logic 
 ---
 
 ## 📂 Repository Structure
-
+python-internship-tasks/
+│── Task-1_Hangman/
+│ └── hangman.py
+│── Task-2_StockPortfolio/
+│ └── stock_portfolio.py
+│── Task-3_AutomationScripts/
+│ └── automation.py
+│── Task-4_Chatbot/
+│ └── chatbot.py
+└── README.md
