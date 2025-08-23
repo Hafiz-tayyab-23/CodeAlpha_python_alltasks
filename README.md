@@ -43,16 +43,18 @@ The projects focus on **file handling, automation, data manipulation, and logic 
 ---
 
 ## 📂 Repository Structure
-CodeAlpha-Python-Internship-2025/<br>
+
+```bash
+CodeAlpha-Python-Internship-2025/
 │
-├── CodeAlpha_python_task1.py       # Task 1: Hangman Game <br>
-├── CodeAlpha_python_task2.py       # Task 2: Stock Portfolio Tracker<br>
-├── CodeAlpha_python_task3.py       # Task 3: Task Automation<br>
-├── CodeAlpha_python_task4.py       # Task 4: Basic Chatbot<br>
-│<br>
-├── portfolio.txt                   # sample data for Stock Tracker<br>
-├── destination.txt                 # output file for automation task<br>
-├── source.txt                      # input file for automation task<br>
-│<br>
-└── README.md                       # single main description file<br>
+├── CodeAlpha_python_task1.py    # Task 1: Hangman Game
+├── CodeAlpha_python_task2.py    # Task 2: Stock Portfolio Tracker
+├── CodeAlpha_python_task3.py    # Task 3: Task Automation
+├── CodeAlpha_python_task4.py    # Task 4: Basic Chatbot
+│
+├── portfolio.txt                # Sample data for Stock Tracker
+├── destination.txt              # Output file for automation task
+├── source.txt                   # Input file for automation task
+│
+└── README.md                    # Main description file
 
