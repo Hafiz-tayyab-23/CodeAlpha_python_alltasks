@@ -43,7 +43,7 @@ The projects focus on **file handling, automation, data manipulation, and logic 
 ---
 
 ## 📂 Repository Structure
-CodeAlpha-Python-Internship-2025/
+CodeAlpha-Python-Internship-2025/<br>
 │
 ├── CodeAlpha_python_task1.py       # Task 1: Hangman Game <br>
 ├── CodeAlpha_python_task2.py       # Task 2: Stock Portfolio Tracker<br>
